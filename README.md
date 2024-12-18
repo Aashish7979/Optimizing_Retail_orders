@@ -36,12 +36,6 @@ For each category, identify the month with the highest sales.
 
 Determine the subcategory with the highest profit growth in 2023 compared to 2022.
 
-**Visualization and Reporting:**
-
-Optionally, export the analyzed data to Python for visualization using libraries like Matplotlib or Tableau for enhanced storytelling.
-
-Prepare a final report summarizing the insights and recommendations.
-
 **Deliverables:**
 
 The project deliverables are structured into three phases:
@@ -76,8 +70,6 @@ Documented results of each query with supporting data outputs.
 
 **Phase 3:** Insights and Reporting
 
-Visualizations of key findings (e.g., bar charts for top products, line graphs for MoM growth).
-
 Final project report including:
 
 Overview of the problem statement and methodology.
@@ -106,8 +98,6 @@ Execute the predefined SQL queries to answer business questions.
 
 Verify the accuracy of SQL query outputs.
 
-Generate visualizations to enhance data storytelling.
-
 Compile insights into a comprehensive report.
 
 **Technical Tools and Frameworks:**
@@ -115,10 +105,6 @@ Compile insights into a comprehensive report.
 **Data Acquisition:** Python, Kaggle API.
 
 Data Management: SSMS for database creation and SQL queries.
-
-Data Visualization (Optional): Python libraries (Matplotlib, Seaborn) or Tableau.
-
-Documentation: Microsoft Word or Google Docs for the final report.
 
 **Expected Outcomes:**
 
